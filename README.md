@@ -1,4 +1,4 @@
 
-```
-git clone https://github.com/varadtote/react-starter.git .
-```
+Random Advice Generator using React
+
+API - https://api.adviceslip.com/advice
