@@ -1,0 +1,18 @@
+@media screen and (max-width: 640px) {
+    .quoteCard {
+        width: 85%;
+        height: max-content;
+    }
+
+    .advice {
+    }
+
+    .quote {
+    }
+
+    button {
+        height: 45px;
+        width: 45px;
+        bottom: -10%;
+    }
+}
